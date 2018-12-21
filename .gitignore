@@ -40,3 +40,6 @@ rsconnect/
 *.csv
 *.pdf
 /README_2017.txt
+
+# NodeJS
+node_modules

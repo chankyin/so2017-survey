@@ -1,0 +1,22 @@
+{
+  "name": "so2017-survey",
+  "version": "1.0.0",
+  "description": "Playing with the StackOverflow 2017 survey data",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chankyin/so2017-survey.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/chankyin/so2017-survey/issues"
+  },
+  "homepage": "https://github.com/chankyin/so2017-survey#readme",
+  "dependencies": {
+    "csv-parser": "^2.1.0"
+  }
+}
